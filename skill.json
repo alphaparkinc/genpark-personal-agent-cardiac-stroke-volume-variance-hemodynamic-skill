@@ -1,0 +1,16 @@
+{
+  "name": "genpark-personal-agent-cardiac-stroke-volume-variance-hemodynamic-skill",
+  "version": "1.0.0",
+  "title": "Cardiac Stroke Volume Variance (SVV) & Preload Responsiveness Skill",
+  "category": "Personal Agent (Bio / Hemodynamics)",
+  "description": "Calculates Stroke Volume Variation (SVV) and Pulse Pressure Variation (PPV) across mechanical/spontaneous respiratory cycles, predicting left ventricular fluid responsiveness and hemodynamic stability.",
+  "author": {
+    "name": "GenPark Ecosystem",
+    "url": "https://www.genpark.ai",
+    "linkedin": "https://www.linkedin.com/company/92955550"
+  },
+  "mcp_tools": [
+    "assess_stroke_volume_variance"
+  ],
+  "dependencies": []
+}
